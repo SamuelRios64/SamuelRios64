@@ -20,7 +20,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 🌱 I'm currently learning: **📚Java, Spring, MySQL, MongoDB, Postman**
+- 🌱 I'm currently learning: **📚Java, HTML, CSS, JS, Bootstrap, React, Spring, MySQL, MongoDB, Postman**
 - 💬 Ask me about: **💡   Java, Spring, MySQL**
 - ⚡ Fun fact: **I like to play chess!**
 
