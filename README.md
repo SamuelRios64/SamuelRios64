@@ -58,19 +58,21 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SamuelRios64&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRios64&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" alt="Top Languages" />
-</p>
+<div align="center" style="margin: 25px 0;">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SamuelRios64&show_icons=true&theme=midnight-purple&border_radius=15&hide_border=true" alt="GitHub Stats" style="animation: slideIn 2s ease-out;" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRios64&layout=compact&theme=midnight-purple&border_radius=15&hide_border=true" alt="Top Languages" style="animation: slideIn 2s ease-out;" />
+</div>
 
-<p align="center">
+<div align="center" style="margin: 25px 0;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelRios64&bg_color=1a1b27&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=false" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelRios64&bg_color=0d1117&color=8be9fd&line=ff79c6&point=f1fa8c&area=true&hide_border=true" alt="Activity Graph" style="border-radius: 15px; animation: slideIn 2.5s ease-out;" />
   </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  💻 Made with ❤️ by <strong>Samuel Ríos</strong>
-</p>
+<div align="center" style="margin-top: 30px;">
+  <p style="font-family: 'Verdana', sans-serif; color: #8be9fd; font-size: 1.3em; text-shadow: 0 0 10px #8be9fd;">
+    ✨ Written by <strong>Samuel Ríos</strong><br>
+  </p>
+</div>
