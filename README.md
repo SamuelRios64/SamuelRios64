@@ -32,8 +32,8 @@
 
 ## ⚡ Rapid Fire
 
-- 🌱 I'm currently learning: **Java, HTML, CSS, JS, Bootstrap, React, Spring, MySQL, MongoDB, Postman**
-- 💬 Ask me about: **Java, Spring, MySQL**
+- 🌱 I'm currently learning: **Java, HTML, CSS, JS, Bootstrap, React, Spring, MySQL, MongoDB, Postman, JWT, Clean Architecture**
+- 💬 Ask me about: **Java, Spring Boot, MySQL**
 - 🎮 Fun fact: **I like to play chess!**
 
 ---
